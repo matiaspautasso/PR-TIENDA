@@ -102,7 +102,7 @@ This system addresses a common problem for small-to-medium tech retailers: **man
 **Folder structure:**
 
 ```
-PR-TIENDA/
+pr-store/
 ├── db/
 │   ├── init.sql                        ← Full schema (auto-run by Docker)
 │   └── migration-add-fields.sql        ← Idempotent migration for existing DBs
