@@ -1,0 +1,8 @@
+node_modules/
+.env
+tiendatec/api/imagenes/*
+!tiendatec/api/imagenes/.gitkeep
+playwright-report/
+test-results/
+.atl/
+.omc/
